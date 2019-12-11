@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (OpenGLCourseApp.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  shader.cpp
+  IDCC-VVCShaderVideoPlayer.cpp
+  Generating code
+  All 224 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OpenGLCourseApp.vcxproj -> C:\OFFICIAL\INTERDIGITAL\MWC2020\VTM-5.0-FINAL-CODES\IDCC-VVCVideoPlayerShader\x64\Release\IDCC-VVCShaderVideoPlayer.exe
+  OpenGLCourseApp.vcxproj -> C:\OFFICIAL\INTERDIGITAL\MWC2020\VTM-5.0-FINAL-CODES\IDCC-VVCVideoPlayerShader\x64\Release\IDCC-VVCShaderVideoPlayer.pdb (Full PDB)

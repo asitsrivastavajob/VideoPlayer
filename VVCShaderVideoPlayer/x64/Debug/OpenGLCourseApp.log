@@ -1,0 +1,8 @@
+﻿  yuv-player.cpp
+c:\official\interdigital\mwc2020\opengl based vvc player\openglcourseapp\player\yuv-player.cpp(67): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  shader.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLCourseApp.vcxproj -> C:\OFFICIAL\INTERDIGITAL\MWC2020\OPENGL BASED VVC PLAYER\OpenGLCourseApp\x64\Debug\OpenGLCourseApp.exe
+  OpenGLCourseApp.vcxproj -> C:\OFFICIAL\INTERDIGITAL\MWC2020\OPENGL BASED VVC PLAYER\OpenGLCourseApp\x64\Debug\OpenGLCourseApp.pdb (Full PDB)
